@@ -1,2 +1,2 @@
 # Amplify
-Practica Amazon
+Practica AWS
